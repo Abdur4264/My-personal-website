@@ -6,9 +6,9 @@ body {
 }
 
 .box {
-    width: 450px;
+    width: 1080px;
     background: rgba(146, 165, 247, 0.4);
-    padding: 40px; 
+    padding: 60px; 
     text-align: center;
     margin: auto;
     margin-top: 5%;
